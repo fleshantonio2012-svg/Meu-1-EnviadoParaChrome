@@ -1,0 +1,65 @@
+p {
+text-align: center;
+background-color: green;
+padding:  20px;
+display: flex;
+gap: 20px;
+
+}
+a {
+max-height:  50px;
+}
+.caixa {
+background: #eee;
+padding: 20px;
+display: flex;
+gap:50px;
+}
+
+.item {
+background: orange;
+padding: 10px;
+margin: 10px;
+
+}
+
+}
+
+.jose-imagem {
+width: 590px;
+}
+.sonic {
+color : red;
+}
+
+
+.fim-minecraft{
+width:400px;
+height: 400px;
+object-fit :cover;
+border: 80px;
+margin: red;
+align-content: center;
+}
+
+:root {
+background: green;
+}
+.card {
+width: 200px;
+height:200px;
+align-items: center;
+background-color: red;
+border-radius: 10px;
+align-content: center;
+justify-content: center;
+padding:0px;
+display: flex;
+box-shadow: 2px 2px 10px rgba (0,0,0,0,5);
+}
+
+.luz-da-madrugada {
+background-color: red;
+height: 0px;
+width: 0px;
+}
